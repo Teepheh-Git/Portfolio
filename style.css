@@ -515,7 +515,7 @@ xclip
 #mainNav.navbar-shrink {
     padding-top: 10px;
     padding-bottom: 10px;
-    background-color: #333333;
+    background-color: rgba(0, 0, 0, 0.46);
 }
 
 #clouds {
@@ -560,11 +560,11 @@ xclip
 }
 
 .section.lb {
-    background-color: #dbcede;
+    background-color: rgba(128, 128, 128, 0.5);
 }
 
 .section.lb2 {
-    background-color: #9bbaec;
+    background-color: #fff;
 }
 
 
@@ -574,7 +574,7 @@ xclip
 
 
 .section.color1 {
-    background-color: #448AFF;
+    background-color: rgba(123, 158, 219, 0.76);
 }
 
 
