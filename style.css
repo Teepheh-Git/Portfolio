@@ -73,7 +73,9 @@ html, body {
 }
 
 body.demos .section {
-    background: url(images/bg2.jpg) repeat top center #f2f3f5;
+    background-color: #ffffff;
+
+    /*background: url(images/bg2.jpg) repeat top center #f2f3f5;*/
 }
 
 body.demos .section-title img {
@@ -566,6 +568,7 @@ xclip
 
 .section.lb {
     background-color: rgba(128, 128, 128, 0.5);
+
 }
 
 .section.lb2 {
@@ -2356,7 +2359,9 @@ select.mobile-device {
 }
 
 #contact {
-    background: url(images/bg.png) no-repeat center center #333333;
+    /*background: url(images/bg2.png) no-repeat center center #333333;*/
+    background-color: rgba(128, 128, 128, 0.5);
+
 }
 
 
