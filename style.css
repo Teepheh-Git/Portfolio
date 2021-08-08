@@ -2319,7 +2319,7 @@ select.mobile-device {
 }
 
 .contact_form .form-control {
-    background-color: #333333;
+    background-color: rgba(51, 51, 51, 0.51);
     margin-bottom: 30px;
     border: 1px solid #ebebeb;
     box-sizing: border-box;
@@ -2371,13 +2371,13 @@ select.mobile-device {
 
 .contact_form textarea.form-control {
     min-height: 225px;
-    border-radius: 15px;
+    border-radius: 10px;
 
 }
 
 .form-group {
     position: relative;
-    border-radius: 15px;
+    border-radius: 10px;
 
 }
 
@@ -2385,6 +2385,48 @@ select.mobile-device {
     position: absolute;
     top: 100%;
     left: 0px;
+}
+ .right-info {
+    background-color: rgba(255, 255, 255, 0.47);
+    padding: 30px;
+border-radius: 15px;
+    color: #343434;
+    text-align: left;
+    margin-bottom: 60px;
+}
+
+ .right-info p em {
+    font-style: normal;
+    font-weight: 500;
+}
+
+ .right-info .social-icons {
+    margin-top: 45px;
+}
+
+ .right-info ol {
+    padding: 0;
+    margin: 0;
+}
+
+ .right-info i {
+    margin-right: 10px;
+    color: #fff;
+    font-size: 15px;
+    width: 34px;
+    height: 34px;
+    background-color: #cdcdcd;
+    display: inline-block;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 34px;
+}
+
+ .right-info i:hover {
+    background-color: rgba(128, 128, 128, 0.5);
+    -moz-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+    -webkit-transition: all 0.3s linear;
 }
 
 /*------------------------------------------------------------------
