@@ -517,16 +517,20 @@ xclip
 }
 
 
-
 .section.wb {
     background-color: #ffffff;
 }
 
 .section.lb {
-    background-color: #dae8da;
+    background-color: #dbcede;
 }
- .section.lb2 {
-    background-color: #a016cb;
+
+.section.lb2 {
+    background-color: #ced4e3;
+}
+
+.section.lb3 {
+    background-color: #dbcdc5;
 }
 
 
